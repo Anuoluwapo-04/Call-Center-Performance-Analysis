@@ -28,7 +28,7 @@ Key KPIs may include:
 
 ## Data Source
 The dataset used for this task was presented by [Pwc](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
-- Dataset: Call Center Dataset
+- Dataset: [Call Center Dataset](https://github.com/Anuoluwapo-04/Call-Center-Performance-Analysis/blob/main/01%20Call-Center-Dataset.xlsx)
 
 ## Tools
 - Excel
@@ -81,6 +81,7 @@ some of the calculated columns  in the call center table are:
 ## Data Visualization
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop.
+- Dashboard: [View Dashboard](https://github.com/Anuoluwapo-04/Call-Center-Performance-Analysis/blob/main/Call%20center%20Analysis%20Dashboard.pbix)
 
    ![image](https://github.com/user-attachments/assets/3de8d59b-7024-4ce3-a073-877c293d074a)
 
